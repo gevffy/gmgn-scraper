@@ -1,0 +1,18 @@
+{
+  "name": "gmgn-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.2.0",
+    "@solana/web3.js": "^1.98.0",
+    "dotenv": "^16.4.5",
+    "puppeteer": "^23.6.0"
+  }
+}
